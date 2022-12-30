@@ -1,2 +1,2 @@
 # Gamaforcez
-source code penugasan oprec - magang
+source code penugasan oprec - magang Gamaforce
